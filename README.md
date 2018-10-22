@@ -36,9 +36,3 @@ python3 HW1-X_X.py
 ```
 
 Images will output into the folder.
-
-## Authors
-
-* [Brian Chiang](https://github.com/CKRC24)
-* [Sean Lee](https://github.com/sam961124)
-* [David Lai](https://github.com/dav1a1223)
