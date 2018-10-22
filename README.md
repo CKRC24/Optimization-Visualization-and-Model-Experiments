@@ -1,6 +1,6 @@
 # Optimization visualization & model experiments
 
-In this project, we conducted some experiments about **Model Structures**, **Optimization**, and **Generalization**.
+This is a project of an assigment in the Deep Learning course @ NTU. In this project, we conducted some experiments about **Model Structures**, **Optimization**, and **Generalization**.
 
 ## Getting Started
 
